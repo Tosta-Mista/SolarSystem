@@ -38,7 +38,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="4" selection-start="780" selection-end="780" vertical-scroll-proportion="0.90984976" vertical-offset="319" max-vertical-offset="1026">
+            <state line="66" column="16" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.84974957" vertical-offset="679" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -460,7 +460,11 @@
       <created>1388697288243</created>
       <updated>1388697288243</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add: a new orbit style :).">
+      <created>1388697532460</created>
+      <updated>1388697532460</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -500,7 +504,8 @@
     <MESSAGE value="Add: set position for the celestial corps :)." />
     <MESSAGE value="Add: some visual settings for the sun." />
     <MESSAGE value="Add: div to control the orbit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: div to control the orbit." />
+    <MESSAGE value="Add: a new orbit style :)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: a new orbit style :)." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -515,7 +520,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="4" selection-start="780" selection-end="780" vertical-scroll-proportion="0.90984976" vertical-offset="319" max-vertical-offset="1026">
+        <state line="66" column="16" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.84974957" vertical-offset="679" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
