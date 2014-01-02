@@ -38,7 +38,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="14" selection-start="427" selection-end="427" vertical-scroll-proportion="0.78130215" vertical-offset="0" max-vertical-offset="630">
+            <state line="21" column="4" selection-start="339" selection-end="339" vertical-scroll-proportion="0.6310518" vertical-offset="0" max-vertical-offset="738">
               <folding />
             </state>
           </provider>
@@ -448,7 +448,11 @@
       <created>1388696201390</created>
       <updated>1388696201390</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add: set position for the celestial corps :).">
+      <created>1388696804009</created>
+      <updated>1388696804009</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -485,7 +489,8 @@
     </option>
     <MESSAGE value="Add: css file and html." />
     <MESSAGE value="Change: css file to add a bit of stlye." />
-    <option name="LAST_COMMIT_MESSAGE" value="Change: css file to add a bit of stlye." />
+    <MESSAGE value="Add: set position for the celestial corps :)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: set position for the celestial corps :)." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -500,7 +505,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="14" selection-start="427" selection-end="427" vertical-scroll-proportion="0.78130215" vertical-offset="0" max-vertical-offset="630">
+        <state line="21" column="4" selection-start="339" selection-end="339" vertical-scroll-proportion="0.6310518" vertical-offset="0" max-vertical-offset="738">
           <folding />
         </state>
       </provider>
