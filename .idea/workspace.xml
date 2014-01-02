@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcd6c8ce-95fb-4d88-ae0c-fe30c0f5d2eb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SolarSystem.iws" />
@@ -26,19 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="42" selection-start="170" selection-end="170" vertical-scroll-proportion="0.22027972" vertical-offset="0" max-vertical-offset="572">
+            <state line="7" column="42" selection-start="170" selection-end="170" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="324">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="14" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1458">
+            <state line="6" column="36" selection-start="144" selection-end="144" vertical-scroll-proportion="0.1803005" vertical-offset="0" max-vertical-offset="1458">
               <folding />
             </state>
           </provider>
@@ -62,8 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -490,7 +490,11 @@
       <created>1388699430826</created>
       <updated>1388699430826</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add: use sun_special.gif instead hosting image.">
+      <created>1388699474422</created>
+      <updated>1388699474422</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -534,22 +538,23 @@
     <MESSAGE value="Add: orbit trajectory" />
     <MESSAGE value="Add: an animated gif for earth, and create a directory to put some media into." />
     <MESSAGE value="Add: sun image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: sun image" />
+    <MESSAGE value="Add: use sun_special.gif instead hosting image." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: use sun_special.gif instead hosting image." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="14" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1458">
+        <state line="7" column="42" selection-start="170" selection-end="170" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="324">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="42" selection-start="170" selection-end="170" vertical-scroll-proportion="0.22027972" vertical-offset="0" max-vertical-offset="572">
+        <state line="6" column="36" selection-start="144" selection-end="144" vertical-scroll-proportion="0.1803005" vertical-offset="0" max-vertical-offset="1458">
           <folding />
         </state>
       </provider>

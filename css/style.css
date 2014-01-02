@@ -4,7 +4,7 @@ html, body{
     height: 100%;
 
     /* Background of the universe */
-    background-color: black;
+    background-image: url('../img/night.jpg');
 }
 
 #sun {
@@ -19,7 +19,7 @@ html, body{
     margin-left: -100px;
 
     /* Visual Settings */
-    border: 8px solid orange;
+    border: 8px solid black;
     border-radius: 50%;
 
     box-shadow: 50%;
