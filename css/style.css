@@ -20,6 +20,9 @@ html, body{
 }
 #earth{
     /* Style of the earth */
+    position: absolute;
+    top: 25%;
+    left: 25%;
 }
 #earth-orbit {
     /* setting for earth orbit */
