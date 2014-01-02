@@ -19,7 +19,7 @@ html, body{
     margin-left: -100px;
 
     /* Visual Settings */
-    border: 8px solid black;
+    border: 5px solid #010314;
     border-radius: 50%;
 
     box-shadow: 50%;
@@ -49,6 +49,8 @@ html, body{
     /* Visual setting for earth-orbit */
     border: 2px dotted white;
     border-radius: 50%;
+
+    /* Animation */
     -webkit-animation: spin-right 10s linear infinite;
      -moz-animation: spin-right 10s linear infinite;
       -ms-animation: spin-right 10s linear infinite;
