@@ -22,7 +22,7 @@ html, body{
     border: 5px solid #010314;
     border-radius: 50%;
 
-    box-shadow: 50%;
+    box-shadow: 20%;
 }
 #earth{
     /* Style of the earth */

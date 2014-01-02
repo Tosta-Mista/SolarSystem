@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcd6c8ce-95fb-4d88-ae0c-fe30c0f5d2eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/night.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -39,7 +38,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="4" selection-start="895" selection-end="895" vertical-scroll-proportion="0.5709516" vertical-offset="594" max-vertical-offset="1494">
+            <state line="24" column="18" selection-start="425" selection-end="427" vertical-scroll-proportion="0.721202" vertical-offset="0" max-vertical-offset="1494">
               <folding />
             </state>
           </provider>
@@ -499,7 +498,11 @@
       <created>1388699664924</created>
       <updated>1388699664924</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add: night background and need to find another image for the sun.">
+      <created>1388699906699</created>
+      <updated>1388699906699</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -545,7 +548,8 @@
     <MESSAGE value="Add: sun image" />
     <MESSAGE value="Add: use sun_special.gif instead hosting image." />
     <MESSAGE value="Add: night background." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: night background." />
+    <MESSAGE value="Add: night background and need to find another image for the sun." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: night background and need to find another image for the sun." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -560,7 +564,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="4" selection-start="895" selection-end="895" vertical-scroll-proportion="0.5709516" vertical-offset="594" max-vertical-offset="1494">
+        <state line="24" column="18" selection-start="425" selection-end="427" vertical-scroll-proportion="0.721202" vertical-offset="0" max-vertical-offset="1494">
           <folding />
         </state>
       </provider>
