@@ -1,4 +1,4 @@
 SolarSystem
 ===========
 
-Solar System writted on HTML/CSS
+Solar System written on HTML/CSS
